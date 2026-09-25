@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sportsdataio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SportsDataIO MCP — wraps SportsDataIO's Big-Six sports data API (sportsdata.io)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-60445bbd3a4418dd3617bcdbfdff6179ddb1b4020818c2070cac7d48103eb612",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
